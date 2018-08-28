@@ -1,1 +1,2 @@
-# Lighbot
+### Lightbot
+# Lightbot is a very easy game where you dont have to put much effort in until you get to the higher levels. This game gets addictive after a while though.The robot has to be programmed to light up all the blue tiles by you making it turn or jump or walk forward. This little robot follows all the commands you give it. Lighbot helps understand programming it also motivates you to keep walking forward. 
